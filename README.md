@@ -73,6 +73,6 @@ All points are worth 1 point unless denoted by (). Points are earned by advancin
 |Evolution Premonition - Correctly guess the evo and provide a clip to earn 1 bonus point. May earn 1 point in each type (6 total) and the run must be live (no guessing from the log or replay).|
 |Metamorphasis - Defeat Koga (or later) with a mon that does not have the original seed typing to earn 1 bonus point towards your tourney total. May earn 1 point in each type (6 total).|
 |List Loyalty - Furthest run using "Notetaker" will earn 2 bonus points.|
-|Crowd Funding - Screenshot a PCG Shiny Catch by a member of your chat to earn 1 bonus point.|
+|Guy from the list - take a clip of encountering Politoed against a trainer in any seed to earn 1 bonus point.|
 
 Good Luck Challengers.
